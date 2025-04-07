@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
 .env
+.env*
 
 # C extensions
 *.so
@@ -172,4 +174,4 @@ cython_debug/
 .ruff_cache/
 
 # PyPI configuration file
-.pypirc
+.pypirc.env
